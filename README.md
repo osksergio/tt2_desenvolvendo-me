@@ -20,7 +20,7 @@ Questões e problemas do teste técnoco / soluções implementadas:
 
 **2** - Em um sistema web, cada usuário pode se inscrever em diversos eventos, cada evento possui até 3 prêmios que são distribuídos entre os usuários presentes. O sistema precisa guardar a informação sobre quem participou de cada evento e quem ganhou os prêmios. Modele um banco de dados capaz de suportar essas regras.
 
-[Solução]( )
+[Solução]( https://github.com/osksergio/tt2_desenvolvendo-me/issues/4#issue-1393382030 )
 
 **3** - Considere um sistema onde cada Usuário possui os atributos nome (String), idade (Inteiro) e profissão (String). Faça uma query que retorne o nome de todos os usuários com idade maior ou igual à 18 anos e cuja profissão seja programador ou desenvolvedor.
 
