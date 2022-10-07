@@ -3,7 +3,7 @@
 
 Event.create([
                { description: 'Semana do Desenvolvedor 40+' },
-               { description: 'Palestra Motivacional I ' },
+               { description: 'Palestra Motivacional I' },
                { description: 'Palestra: Empreendedor de Sucesso'} ])
 
 Prize.create([
