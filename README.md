@@ -36,3 +36,5 @@ Questões e problemas do teste técnoco / soluções implementadas:
 **7** - Considerando a estrutura padrão de arquivos de um projeto feito com Ruby on Rails, em quais pastas devem se encontrar os models, os controllers e as views de um projeto? De que modo é possível saber qual controller é responsável por gerenciar uma determinada view?
 
 [Solução]( https://github.com/osksergio/tt2_desenvolvendo-me/issues/10#issue-1393407417 )
+
+(Desafio 2 de 5 finalizado)
